@@ -115,11 +115,11 @@ Finance-dashboard/
 git clone https://github.com/samarthunhale-alt/Finance-dashboard.git
 cd Finance-dashboard
 
-**# frontend setup*
+*# frontend setup*
 cd client
 npm install
 npm run dev
-**
+
 # Frontend runs on: http://localhost:5173
 
 # Backend Setup
