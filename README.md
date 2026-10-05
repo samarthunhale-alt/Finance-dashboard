@@ -66,7 +66,7 @@ The project uses a separate React frontend, Node.js/Express backend, and MongoDB
 - Morgan
 - Express Rate Limit
 
-### Deployment
+## Deployment
 - Vercel – Frontend
 - Render – Backend
 - MongoDB Atlas – Database
@@ -115,16 +115,16 @@ Finance-dashboard/
 git clone https://github.com/samarthunhale-alt/Finance-dashboard.git
 cd Finance-dashboard
 
-*# frontend setup*
+# frontend setup:
 cd client
 npm install
 npm run dev
 
 # Frontend runs on: http://localhost:5173
 
-# Backend Setup
+# Backend Setup:
 cd server
 npm install
 npm start
 
-#Backend runs on: http://localhost:5000
+# Backend runs on: http://localhost:5000
